@@ -1,0 +1,22 @@
+{
+  "name": "shang-utils-ts",
+  "version": "1.0.0",
+  "description": "shang-utils-ts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkrepocom/shang-utils-ts.git"
+  },
+  "keywords": [
+    "shang-utils"
+  ],
+  "author": "kkrepocom",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/kkrepocom/shang-utils-ts/issues"
+  },
+  "homepage": "https://github.com/kkrepocom/shang-utils-ts#readme"
+}
